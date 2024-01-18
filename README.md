@@ -4,11 +4,10 @@ This repo provides a starting point for creating your own Discord bot using Disc
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
+- [Templates](#templates)
+- [Coammnds](#commands)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Commands](#commands)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
