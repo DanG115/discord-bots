@@ -32,7 +32,7 @@ async def hello(ctx):
 
 ## 🛠️ Installation
 
-To get started with the Discord Nuke Bot, follow these simple steps:
+To get started with the Discord Bot, follow these simple steps:
 
 1. **Clone the Repository** ⬇️
 
@@ -43,7 +43,7 @@ To get started with the Discord Nuke Bot, follow these simple steps:
 
    - Visit the Discord Developer Portal.
    - Click the "New Application" button.
-   - Give your application a name (e.g., "Nuke Bot").
+   - Give your application a name (e.g., "Bot").
    - Navigate to the "Bot" tab and click "Add Bot."
 
 3. **Get Your Bot Token** 🔑
