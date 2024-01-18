@@ -2,6 +2,17 @@
 
 This repo provides a starting point for creating your own Discord bot using Discord.py. Get your bot up and running quickly with predefined templates in the `templates` folder and customizable commands that you can add to the main file.
 
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Commands](#commands)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+  
 ## 📂 Templates
 
 Explore the `templates` folder to find Discord.py templates that serve as a foundation for your bot's functionality.
@@ -19,26 +30,6 @@ Enhance your bot by adding custom commands to the main file. The template is des
 async def hello(ctx):
     await ctx.send(f'Hello, {ctx.author.mention}!')
 ```
-
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Description
-
-The Discord Nuke Bot is a powerful utility bot designed for administrators of Discord servers. It provides a set of commands to perform administrative actions, including banning members, deleting channels, and creating a designated "nuke" channel.
-
-## Features
-
-- **Server Nuking**: Use the `!fn` command to fully nuke a server, banning all members and deleting all channels except for the nuke channel.
-- **Command Help**: Use the `!help` command to display a list of available commands and their descriptions.
 
 ## 🛠️ Installation
 
