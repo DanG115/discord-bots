@@ -82,7 +82,7 @@ To get started with the Discord Nuke Bot, follow these simple steps:
 2. In any text channel, use the following command to fully nuke the server:
 
 
-## Commands
+## 
 
 - `!fn` - Fully nuke the server (Ban all members and delete all channels except for the nuke channel).
 - `!help` - Display a list of available commands and their descriptions.
