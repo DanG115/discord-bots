@@ -30,6 +30,14 @@ async def hello(ctx):
     await ctx.send(f'Hello, {ctx.author.mention}!')
 ```
 
+## Packages
+
+The default packages have been added to text file in the templates folder and should be installed by exectuting: 
+     ```
+     pip install -r requirements.txt
+     ```
+Any new packages required will be added to seperate .txt file inside of the command folder
+
 ## 🛠️ Installation
 
 To get started with the Discord Bot, follow these simple steps:
