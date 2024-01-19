@@ -36,6 +36,7 @@ The default packages have been added to a text file in the `templates` folder an
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🛠️ Installation
 
