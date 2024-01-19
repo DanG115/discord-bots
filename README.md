@@ -69,30 +69,18 @@ To get started with the Discord Bot, follow these simple steps:
      DISCORD_BOT_TOKEN=your-bot-token
      ```
 
-## Usage
-
-1. Ensure the Discord Nuke Bot is a member of your server with the necessary permissions (e.g., `ADMINISTRATOR`).
-
-2. In any text channel, use the following command to fully nuke the server:
-
-
-## 
-
-- `!fn` - Fully nuke the server (Ban all members and delete all channels except for the nuke channel).
-- `!help` - Display a list of available commands and their descriptions.
-
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/YourGitHubUsername/discord-nuke-bot).
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/dang115/discord.py-template).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](https://github.com/DanG115/discord.py-template?tab=Apache-2.0-1-ov-file#readme).
 
 ## Contact
 
 If you have any questions or feedback, you can reach out to me at your@email.com.
 
 ---
-[GitHub Repository](https://github.com/YourGitHubUsername/discord-nuke-bot)
+[GitHub Repository](https://github.com/dang115/discord.py-template)
 
