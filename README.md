@@ -32,11 +32,10 @@ async def hello(ctx):
 
 ## Packages
 
-The default packages have been added to text file in the templates folder and should be installed by exectuting: 
-     ```
-     pip install -r requirements.txt
-     ```
-Any new packages required will be added to seperate .txt file inside of the command folder
+The default packages have been added to a text file in the `templates` folder and should be installed by executing the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
 
 ## 🛠️ Installation
 
