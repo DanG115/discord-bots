@@ -5,7 +5,7 @@ This repo provides a starting point for creating your own Discord bot using Disc
 ## Table of Contents
 
 - [Templates](#templates)
-- [Coammnds](#commands)
+- [Commands](#commands)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -79,7 +79,7 @@ This project is licensed under the [Apache License](https://github.com/DanG115/d
 
 ## Contact
 
-If you have any questions or feedback, you can reach out to me at your@email.com.
+If you have any questions or feedback, you can reach out to me at dangleeson13@gmail.com.
 
 ---
 [GitHub Repository](https://github.com/dang115/discord.py-template)
