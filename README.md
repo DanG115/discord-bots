@@ -37,8 +37,8 @@ To get started with the Discord Bot, follow these simple steps:
 1. **Clone the Repository** ⬇️
 
    ```bash
-   git clone https://github.com/DanG4115/nukebot_discord.git
-   cd nukebot_discord
+   git clone https://github.com/DanG115/discord.py-template.git
+   cd default_templates
 2. **Create a Discord Application** 🤖
 
    - Visit the Discord Developer Portal.
@@ -48,7 +48,8 @@ To get started with the Discord Bot, follow these simple steps:
 
 3. **Get Your Bot Token** 🔑
 
-   - Under the "Token" section, click "Copy" to copy your bot token.
+   - Under the "Token" section, click "Copy" to copy your bot token
+     
 
 4. **Invite the Bot to Your Server** 💌
 
@@ -62,18 +63,11 @@ To get started with the Discord Bot, follow these simple steps:
 
 5. **Configure Your Bot** ⚙️
 
-   - Create a `.env` file in the project directory.
    - Paste your bot token into the `.env` file with this format:
 
      ```
-     DISCORD_TOKEN=your-bot-token
+     DISCORD_BOT_TOKEN=your-bot-token
      ```
-
-6. **Run the Bot** 🚀
-
-   ```bash
-   python bot.py
-
 
 ## Usage
 
@@ -101,3 +95,4 @@ If you have any questions or feedback, you can reach out to me at your@email.com
 
 ---
 [GitHub Repository](https://github.com/YourGitHubUsername/discord-nuke-bot)
+
