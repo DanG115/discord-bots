@@ -79,7 +79,7 @@ This project is licensed under the [Apache License](https://github.com/DanG115/d
 
 ## Contact
 
-If you have any questions or feedback, you can reach out to me at dangleeson13@gmail.com.
+If you have any questions or feedback, you can reach out to me here: [https://dan-gleeson.co.uk/contact](https://dan-gleeson.co.uk/contact)
 
 ---
 [GitHub Repository](https://github.com/dang115/discord.py-template)
